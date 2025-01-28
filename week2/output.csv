@@ -1,0 +1,15 @@
+host,port,status
+10.0.5.20,22,failure
+10.0.5.20,80,failure
+10.0.5.20,443,failure
+10.0.5.20,8080,failure
+10.0.5.20,139,failure
+10.0.5.20,445,failure
+10.0.5.20,3389,failure
+10.0.5.22,22,success
+10.0.5.22,80,failure
+10.0.5.22,443,failure
+10.0.5.22,8080,failure
+10.0.5.22,139,failure
+10.0.5.22,445,failure
+10.0.5.22,3389,failure

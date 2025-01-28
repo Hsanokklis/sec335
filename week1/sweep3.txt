@@ -1,0 +1,8 @@
+Host is up, received echo-reply ttl 64 (0.00056s latency).
+Host is up, received echo-reply ttl 63 (0.0010s latency).
+Host is up, received echo-reply ttl 63 (0.0011s latency).
+Host is up, received echo-reply ttl 63 (0.00098s latency).
+Host is up, received echo-reply ttl 63 (0.0012s latency).
+Host is up, received echo-reply ttl 127 (0.0012s latency).
+Host is up, received echo-reply ttl 63 (0.0011s latency).
+Host is up, received syn-ack ttl 127 (0.0011s latency).
